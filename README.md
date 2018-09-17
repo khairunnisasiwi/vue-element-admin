@@ -2,7 +2,7 @@
 Dashboard
 
 clone:
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone https://github.com/khairunnisasiwi/vue-element-admin.git
 
 install dependencies:
 npm install
